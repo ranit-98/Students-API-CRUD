@@ -1,0 +1,32 @@
+.formContainer{
+    margin-left: 30%;
+    margin-top: 5%;
+    border: 1px solid black;
+    width: 35rem;
+}
+.formHeading{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    margin-top: 0;
+}
+label{
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 10rem;
+}
+input{
+    width: 15rem;
+    height: 1.8rem;
+    margin-left: 10rem;
+    /* margin-bottom: 1.5rem; */
+    margin-top: 0.1rem;
+}
+.alert{
+    color: "red";
+    margin-left: "10rem" 
+}
+button{
+    margin-left: 35%;
+    margin-bottom: 1rem;
+}

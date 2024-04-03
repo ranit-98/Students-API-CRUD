@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "7a8b",
+      "name": "Ranit Dey",
+      "email": "abc@gmail.com",
+      "phone": "7869332245",
+      "address": "Kolkata",
+      "city": "kolkata",
+      "class": "x"
+    },
+    {
+      "id": "97e7",
+      "name": "Rittik Pal",
+      "email": "riksir@gmail.com",
+      "phone": "7869332245",
+      "address": "Pune",
+      "city": "Pune",
+      "class": "xi"
+    },
+    {
+      "id": "0d20",
+      "name": "Srijan Bhandary",
+      "email": "srijan@gmail.com",
+      "phone": "4568213544",
+      "address": "Maharastra",
+      "city": "Mumbai",
+      "class": "vi"
+    },
+    {
+      "id": "14d9",
+      "name": "Abhas Saini",
+      "email": "abhas@gmail.com",
+      "phone": "7869332247",
+      "address": "Delhi",
+      "city": "Delhi",
+      "class": "ssc"
+    }
+  ]
+}
